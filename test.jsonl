@@ -1,0 +1,20 @@
+{"prompt": "上海那边天气怎么样？", "answer": "{\"tool\":\"weather\",\"arguments\":{\"city\":\"上海\"}}"}
+{"prompt": "38乘17是多少？", "answer": "{\"tool\":\"calculator\",\"arguments\":{\"expression\":\"38*17\"}}"}
+{"prompt": "我想了解 GRPO，帮我搜一下。", "answer": "{\"tool\":\"search\",\"arguments\":{\"query\":\"GRPO\"}}"}
+{"prompt": "帮我记一下明天下午两点开产品评审会。", "answer": "{\"tool\":\"calendar\",\"arguments\":{\"event\":\"产品评审会\",\"time\":\"明天下午两点\"}}"}
+{"prompt": "我想知道广州最近的天气情况。", "answer": "{\"tool\":\"weather\",\"arguments\":{\"city\":\"广州\"}}"}
+{"prompt": "麻烦算一下 256 + 128。", "answer": "{\"tool\":\"calculator\",\"arguments\":{\"expression\":\"256+128\"}}"}
+{"prompt": "找几篇关于图神经网络的论文。", "answer": "{\"tool\":\"search\",\"arguments\":{\"query\":\"图神经网络 论文\"}}"}
+{"prompt": "提醒我周五晚上七点半去健身房。", "answer": "{\"tool\":\"calendar\",\"arguments\":{\"event\":\"去健身房\",\"time\":\"周五晚上七点半\"}}"}
+{"prompt": "深圳今天温度是多少？", "answer": "{\"tool\":\"weather\",\"arguments\":{\"city\":\"深圳\"}}"}
+{"prompt": "9.6除以3等于多少？", "answer": "{\"tool\":\"calculator\",\"arguments\":{\"expression\":\"9.6/3\"}}"}
+{"prompt": "搜索一下 Flash Attention 的原理。", "answer": "{\"tool\":\"search\",\"arguments\":{\"query\":\"Flash Attention 原理\"}}"}
+{"prompt": "下周二上午十点要交作业，提醒我。", "answer": "{\"tool\":\"calendar\",\"arguments\":{\"event\":\"交作业\",\"time\":\"下周二上午十点\"}}"}
+{"prompt": "哈尔滨冷不冷？", "answer": "{\"tool\":\"weather\",\"arguments\":{\"city\":\"哈尔滨\"}}"}
+{"prompt": "20乘以30是多少？", "answer": "{\"tool\":\"calculator\",\"arguments\":{\"expression\":\"20*30\"}}"}
+{"prompt": "帮我查查 llama.cpp 怎么用。", "answer": "{\"tool\":\"search\",\"arguments\":{\"query\":\"llama.cpp 用法\"}}"}
+{"prompt": "安排周日下午三点和朋友喝咖啡。", "answer": "{\"tool\":\"calendar\",\"arguments\":{\"event\":\"和朋友喝咖啡\",\"time\":\"周日下午三点\"}}"}
+{"prompt": "帮我查查大连明天的天气。", "answer": "{\"tool\":\"weather\",\"arguments\":{\"city\":\"大连\"}}"}
+{"prompt": "500减175等于几？", "answer": "{\"tool\":\"calculator\",\"arguments\":{\"expression\":\"500-175\"}}"}
+{"prompt": "搜一下多模态模型的最新进展。", "answer": "{\"tool\":\"search\",\"arguments\":{\"query\":\"多模态模型 最新进展\"}}"}
+{"prompt": "帮我记下今晚九点打电话给妈妈。", "answer": "{\"tool\":\"calendar\",\"arguments\":{\"event\":\"打电话给妈妈\",\"time\":\"今晚九点\"}}"}
